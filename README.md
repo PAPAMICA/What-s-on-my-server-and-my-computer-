@@ -1,7 +1,6 @@
-# Présentation
+# What's on my server ?
 
 **Bienvenue sur la liste des services que je met à disposition !**
-
 Certains services sont en libre service, d'autres sur inscription ou encore pour une utilisation familiale et privée.
 Je mettrai cette liste à jour au fur et à mesure de mes nouvelles découvertes et de mes nouveaux projets.
 La quasi-totalité de ces services tournent sur un seul serveur dédié hébergé chez [OneProvider](https://oneprovider.com/fr/node/1). Le serveur tourne sous Debian 10 avec [Docker](https://www.docker.com/), [Docker-Compose](https://docs.docker.com/compose/), [Portainer](https://www.portainer.io/) et [Traefik](https://traefik.io/).
@@ -30,7 +29,14 @@ Comme précédemment dit, je vais séparer les services en trois catégories. Ce
 
 - Un concentrateur de messagerie (Ferdi // *Alternative à Franz*) : ferdi.papamica.fr
 - Cloud privé (NextCloud // *Alternative à GoogleDrive*) : nextcloud.papamica.fr
+- Gestionnaire de taches & rappels (Nextcloud Task // *Alternative à Keep de Google et à Todo de Micosoft*) : nextcloud.papamica.fr
+- Gestionnaire de notes (Nextcloud Note // *Alternatice à Keep de Google*) : nextcloud.papamica.fr 
 - Interface générale des services (Organizr) : papamica.fr
+- Sauvegarde de photos (Lychee)
+- Sauvegarde de serveurs & ordinateurs (UrBackup)
+- Serveur mail (poste.io // *Alternative à Gmail*)
+- Client webmail (Roundcube // *Alternative à Gmail*)
+- (Gitlab)
 
 ## Pour un usage personnel et familiale 
 
@@ -48,5 +54,7 @@ Comme précédemment dit, je vais séparer les services en trois catégories. Ce
  - Agrégateur de logs (Loki)
  
 
-# Les sites internets
+# Les sites internet
 
+# What's on  my computer ?
+# Les logiciels & applications
