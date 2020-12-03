@@ -144,20 +144,20 @@ Et c'est à aussi un des gros avantages de Linux, en quelques commandes, je peux
 - TimeMachine (Sauvegarde automatique de mon ordinateur)
 
 # Quelques liens utiles
-Mon CV & Portfolio : [mickaelasseline.com](https://mickaelasseline.com)
-Mon Profil LinkedIn : [Mickael Asseline](https://www.linkedin.com/in/mickael-asseline/)
+Mon CV & Portfolio : [mickaelasseline.com](https://mickaelasseline.com)</br>
+Mon Profil LinkedIn : [Mickael Asseline](https://www.linkedin.com/in/mickael-asseline/)</br>
 
-Mon GitLab : [git.papamica.fr](https://git.papamica.fr)
-Mon repo Github pour mes docker-compose : [github.com/PAPAMICA/docker-compose-collection](https://github.com/PAPAMICA/docker-compose-collection)
-Mon repo Github pour mes scripts : [github.com/PAPAMICA/scripts](https://github.com/PAPAMICA/scripts)
-Mon repo Github pour mes templates :  [github.com/PAPAMICA/templates](https://github.com/PAPAMICA/templates)
-Le Discord Tech2Tech : 
-Le site de Tech2Tech : [Tech2Tech.fr](https://Tech2Tech.fr)
-Mon site Labo-Tech : [Labo-Tech.fr](https://Labo-Tech.fr)
-Mon identifiant Discord : PAPAMICA #0001
-Mon Twitter : [@PAPAMICA__](https://twitter.com/PAPAMICA__)
+Mon GitLab : [git.papamica.fr](https://git.papamica.fr) </br>
+Mon repo Github pour mes docker-compose : [github.com/PAPAMICA/docker-compose-collection](https://github.com/PAPAMICA/docker-compose-collection)</br>
+Mon repo Github pour mes scripts : [github.com/PAPAMICA/scripts](https://github.com/PAPAMICA/scripts)</br>
+Mon repo Github pour mes templates :  [github.com/PAPAMICA/templates](https://github.com/PAPAMICA/templates)</br>
+Le Discord Tech2Tech : [Discord](https://discord.gg/5wQE2zE)</br>
+Le site de Tech2Tech : [Tech2Tech.fr](https://Tech2Tech.fr)</br>
+Mon site Labo-Tech : [Labo-Tech.fr](https://Labo-Tech.fr)</br>
+Mon identifiant Discord : PAPAMICA #0001</br>
+Mon Twitter : [@PAPAMICA__](https://twitter.com/PAPAMICA__)</br>
 
-Mon lien affilié Amazon : [Accueil Amazon](https://amzn.to/2Vv3vlh)
-Les formations Cocadmin (code promo : PAPAMICA) : [cours.cocadmin.com](https://cours.cocadmin.com/)
+Mon lien affilié Amazon : [Accueil Amazon](https://amzn.to/2Vv3vlh)</br>
+Les formations Cocadmin (code promo : PAPAMICA) : [cours.cocadmin.com](https://cours.cocadmin.com/)</br>
 
-Mes réglages pour CS:GO : [PAPAMICA's Config](https://papamica.github.io/CSGO/)
+Mes réglages pour CS:GO : [PAPAMICA's Config](https://papamica.github.io/CSGO/)</br>
